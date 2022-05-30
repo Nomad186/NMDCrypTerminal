@@ -1,0 +1,4 @@
+solana
+dogecoin 
+bitcoin
+algorand
